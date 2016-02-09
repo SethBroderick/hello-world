@@ -1,2 +1,2 @@
 # hello-world
-A repository. With a commit. 
+Testing out my first repository
